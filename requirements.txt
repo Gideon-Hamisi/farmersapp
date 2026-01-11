@@ -1,0 +1,7 @@
+streamlit==1.38.0
+pandas==2.2.2
+plotly==5.24.0
+streamlit-notify==0.1.4
+firebase-admin==6.5.0
+python-dotenv==1.0.1  # For local secrets
+PyPDF2==3.0.1  # For PDF handling if needed
